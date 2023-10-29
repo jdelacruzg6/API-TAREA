@@ -1,0 +1,22 @@
+{
+  "name": "api-tarea",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdelacruzg6/API-TAREA.git"
+  },
+  "author": "Juan Manuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdelacruzg6/API-TAREA/issues"
+  },
+  "homepage": "https://github.com/jdelacruzg6/API-TAREA#readme",
+  "dependencies": {
+    "node.js": "^0.0.1-security"
+  }
+}
